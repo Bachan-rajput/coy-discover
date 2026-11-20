@@ -1,0 +1,14 @@
+[
+  {
+    "profileId": 1,
+    "action": "like"
+  },
+  {
+    "profileId": 2,
+    "action": "pass"
+  },
+  {
+    "profileId": 3,
+    "action": "like"
+  }
+]
